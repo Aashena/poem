@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/commons-text-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/htmlunit-2.30.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/htmlunit-core-js-2.28.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/htmlunit-cssparser-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/jetty-client-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/jetty-http-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/jetty-io-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/jetty-util-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/jetty-xml-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/neko-htmlunit-2.30.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/websocket-api-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/websocket-client-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/websocket-common-9.4.9.v20180320.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/java/htmlUnitLib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
